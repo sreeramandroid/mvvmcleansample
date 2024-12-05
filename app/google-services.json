@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703189466141",
+    "project_id": "tmobiledemosample",
+    "storage_bucket": "tmobiledemosample.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703189466141:android:c287168e1fcaa207731af4",
+        "android_client_info": {
+          "package_name": "com.rs.tmobiledemosample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-ZWvByaVUWjW3QJxv_8_wT9Ewwij0PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
